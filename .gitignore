@@ -80,3 +80,8 @@ preferences/js/app.js
 resources/js/app.js
 timesheet/js/app.js
 /doc/.phpunit.result.cache
+Certificate/
+cache/
+.DS_Store
+.vscode/
+
