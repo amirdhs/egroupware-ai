@@ -84,4 +84,4 @@ Certificate/
 cache/
 .DS_Store
 .vscode/
-
+sessions/
